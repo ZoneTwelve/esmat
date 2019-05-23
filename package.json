@@ -1,0 +1,19 @@
+{
+  "name": "esmat",
+  "version": "1.0.0",
+  "description": "## TODO list: ============  -  web spider to crawling data on [`https://www.thesaurus.com/browse/${word}`, `https://www.vocabulary.com/dictionary/${word}`]  -  english word note or memorize search word  -  clean word search history or memory on peronal word list  -  ...",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/ZoneTwelve/esmat.git"
+  },
+  "author": "ZoneTwelve",
+  "license": "MPL-2.0",
+  "bugs": {
+    "url": "https://github.com/ZoneTwelve/esmat/issues"
+  },
+  "homepage": "https://github.com/ZoneTwelve/esmat#readme"
+}
